@@ -1,0 +1,34 @@
+func bubbleSort(array: [String], index:Int) {
+    var arr = array
+    var index = index
+
+    for x in 0 ..< array.count {
+        if x != 0 {
+            index -= 1
+
+        }
+
+        for o in 1 ..< index {
+            if
+
+
+
+
+
+
+
+
+
+        }
+    }
+}
+
+var array = [String]()
+var array2 = [String]()
+
+while let input = readLine() {
+
+    array.append(input.lowercased())
+    array2.append(input)
+}
+            
